@@ -37,6 +37,9 @@
 ### **1.0 Dependencias**
 
 ``` pip install flake8 radon vulture bandit autopep8 black isort tqdm ```
+
+---
+
 ``` npm install -g jscpd ```
 
 ### **1.1 Análise Completa**
